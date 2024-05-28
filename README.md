@@ -1,3 +1,6 @@
-Includes
-SwiftUI + Combine
-NavigationStack
+# RecipeBook
+SwiftUI pratice
+
+### Includes
+* SwiftUI + Combine
+* NavigationStack
